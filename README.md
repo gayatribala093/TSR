@@ -3,7 +3,4 @@ This project aims to develop a deep learning model using Python and CNN to recog
 By leveraging the power of CNNs and optimising model performance, we strive to achieve high accuracy and reliability in traffic sign
 recognition.
 
-Team Members:
-Gayatribala Balamurugan
-Kashish Singh
-Shreya Yadav
+Team Members: Gayatribala Balamurugan, Kashish Singh and Shreya Yadav
